@@ -1,16 +1,16 @@
-### Hi there 👋
+## Olá, seja bem-vindo! Eu sou a Mayuu ✌️
 
-<!--
-**yuu-minew/yuu-minew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block"><br>
+<a href="https://picrew.me/image_maker/338224" target="_blank"><img align="right" alt="mayuu" height="150" width="150" src="https://i.ibb.co/hKxzvxz/avatar-gif.gif" target="_blank"></a>
+</div>
 
-Here are some ideas to get you started:
+- 📖 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Estudando: Javascript e Cypress
+- 🧚‍♀️ Pronomes: ela/dela
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align = "center">
+<a href="https://www.linkedin.com/in/yuu-minew/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/yuu.minew/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+![Snake animation](https://github.com/yuu-minew/yuu-minew/blob/output/github-contribution-grid-snake.svg)
