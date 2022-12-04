@@ -1,7 +1,7 @@
 ## Olá, seja bem-vindo! Eu sou a Mayuu ✌️
 
 <div style="display: inline_block"><br>
-<a href="https://picrew.me/image_maker/338224" target="_blank"><img align="right" alt="mayuu" height="150" width="150" src="https://i.ibb.co/hKxzvxz/avatar-gif.gif" target="_blank"></a>
+<a href="https://picrew.me/image_maker/338224" target="_blank"><img align="right" alt="mayuu" height="150" width="150" src="https://i.ibb.co/DM2sz8w/avatar2-gif.gif" target="_blank"></a>
 </div>
 
 - 📖 Estudante de Análise e Desenvolvimento de Sistemas
