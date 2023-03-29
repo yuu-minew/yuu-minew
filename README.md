@@ -5,7 +5,7 @@
 </div>
 
 - 📖 Estudante de Análise e Desenvolvimento de Sistemas
-- 💻 Estudando: Javascript e Cypress
+- 💻 Estudando: Javascript, HTML, CSS e C.
 - 🧚‍♀️ Pronomes: ela/dela
 
 <div align = "center">
